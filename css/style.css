@@ -1,0 +1,15 @@
+.footer1{
+    background-color: rgba(0, 128, 0, 0.674);
+    display: flex;
+    padding-left: 100px;
+    gap: 400px;
+}
+ul{
+    list-style-type: none;
+}
+h3:hover{
+    color: gold;
+}
+ul:hover{
+    color: white;
+}
